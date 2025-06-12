@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Gyuwon's%GITHUB&animation-twinkling&fontAlign=68&fontSize=50&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Gyuwon's%20GITHUB&animation-twinkling&fontAlign=68&fontSize=50&fontAlignY=36)
 
 
 <!--
