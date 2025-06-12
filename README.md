@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Gyuwon's%GITHUB&animation-twinkling&fontAlign=68&fontSize=50&fontAlignY=36)
+
 
 <!--
 **kb081544/kb081544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
